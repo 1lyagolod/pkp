@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PushNotification {
+public class Main {
     public static void main(String[] args) {
         NewsAgency newsAgency = new NewsAgency();
 

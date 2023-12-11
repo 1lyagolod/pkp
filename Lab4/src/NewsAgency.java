@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class NewsAgency implements Subject {
+class NewsAgency implements Observable {
     private List<Observer> observers = new ArrayList<>();
 
     @Override
